@@ -9,4 +9,10 @@ img{
     width: 880px;
     border-radius: 15%;
 }
+button.my-btn {
+    display:block;
+    background-color:red;
+    color:chartreuse;
+    font-size: 2em; 
+}
 
